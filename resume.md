@@ -12,9 +12,9 @@ I am an IT professional who enjoys working in a variety of roles.  I like softwa
 
 Employment
 --------------------
-**October 2011 - Present - Securadyne Systems:**
+**October 2011 - Present - Securadyne Systems**
 
-:    Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US.  This :
+    Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
 * Custom software and integration development
 * Database anaylist services
@@ -23,9 +23,9 @@ Employment
 * Support for physical access control, digital video systems, and ERP
 * Site vulnerability sruveys with regard to physical security
 
-**Oct 2000 - Oct 2011: Security Management Consulting :**
+**Oct 2000 - Oct 2011: Security Management Consulting**
 
-:    Software Developer and VP of IT
+    Software Developer and VP of IT
 
 * Manage all IT infrastructure for small main office and a number of remote employees
 * Software and integration development for Fortune 500 clients
@@ -34,15 +34,16 @@ Employment
 * Lead small industry trade group conferences
 * Provide technical trining courses for CEUs (SQL and UNIX/Linux workshops)
  
-**1999 - Oct 2000: Celito Communications: **
+**1999 - Oct 2000: Celito Communications**
 
-:    Network and PC technician for a variety of local Triangle area businesses while attending NCSU for my degree
+    Network and PC technician for a variety of local Triangle area businesses
  
 Technical Experience
 --------------------
  
 **Software Development**
-:   Worked on various types of software development projects, from headless ETL type tools to web-based tools
+
+    Worked on various types of software development projects, from headless ETL type tools to web-based tools
 
 * ETL tool and plugin development: built specifically around physical access control systems
 * Standalone web-based incident tracking system
@@ -50,7 +51,8 @@ Technical Experience
     
  
 **IT Anaylist**
-:   Assisted with system design, implementation, and support for physical security and ERP systems
+
+    Assisted with system design, implementation, and support for physical security and ERP systems
 
 * Develop BI reports and create dashboards for company management: accounting, branch management, timesheets and project managment
 * Setup and manage BI data warehouses
@@ -80,12 +82,10 @@ Education
 ---------
  
 1999
-:   **Associate in Science**; Brevard College (Brevard, NC)
- 
-    *Cum Laude*
+   **Associate in Science**; Brevard College (Brevard, NC) *Cum Laude*
  
 2001
-:   **BSc, Computer Science**; North Carolina State University (Raleigh, NC)
+   **BSc, Computer Science**; North Carolina State University (Raleigh, NC)
  
  
 </div>

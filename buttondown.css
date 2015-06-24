@@ -358,7 +358,7 @@ td, th /* Table cells and table header cells */
 {
     vertical-align: top; /* Word */
     vertical-align: baseline; /* Others */
-    padding-left:   2.5em;
+    padding-left:   0.5em;
     padding-right:  0.5em;
     padding-top:    0.2em;
     padding-bottom: 0.2em;
