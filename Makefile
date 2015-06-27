@@ -9,3 +9,7 @@ pdf : resume.tex
 
 resume.tex : buttondown.css resume.md
 	pandoc --standalone -t context resume.md -o resume.tex
+
+word: buttondown.css resume.md
+	pandoc -H buttondown.css resume.md -o resume.docx
+	mv resume.docx /var/www/

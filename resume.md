@@ -8,7 +8,7 @@ Mike Baranski
 |USA                |              |(919) 219-0032            |
 |                   |              |                          |
 
-I am an IT professional who enjoys working in a variety of roles.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/anaylist tasks, and interfacing with clients.
+I am an IT professional who enjoys working in a variety of roles.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/analyst tasks, and interfacing with clients.
 
 Employment
 --------------------
@@ -17,11 +17,11 @@ Employment
     Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
 * Custom software and integration development
-* Database anaylist services
+* Database analyst services
 * Project planning and consulting
 * Technical evaluation for new products
 * Support for physical access control, digital video systems, and ERP
-* Site vulnerability sruveys with regard to physical security
+* Site vulnerability surveys with regard to physical security
 
 **Oct 2000 - Oct 2011: Security Management Consulting**
 
@@ -29,35 +29,29 @@ Employment
 
 * Manage all IT infrastructure for small main office and a number of remote employees
 * Software and integration development for Fortune 500 clients
-* Database anaylist services for customers
+* Database analyst services for customers
 * IT and physical security consulting for customers
 * Lead small industry trade group conferences
-* Provide technical trining courses for CEUs (SQL and UNIX/Linux workshops)
+* Provide technical training courses for CEUs (SQL and UNIX/Linux workshops)
  
 **1999 - Oct 2000: Celito Communications**
 
     Network and PC technician for a variety of local Triangle area businesses
  
-Technical Experience
---------------------
+Selected Projects
+-----------------
  
-**Software Development**
+**HRSync**
 
-    Worked on various types of software development projects, from headless ETL type tools to web-based tools
-
-* ETL tool and plugin development: built specifically around physical access control systems
-* Standalone web-based incident tracking system
-* Develop enhancements to Physical Access Control System software, specifically for audit compliance, mainly in the public utility and financial sector
-    
+Designed and developed an ETL software package primarily used to move data between HR/Identity Management systems and access control system.  The software was used by enterprise customers to reduce data entry errors, simplify internal workflows and ensure industry specific audit requirements were met.
  
-**IT Anaylist**
+**CARMA for Picture Perfect**
 
-    Assisted with system design, implementation, and support for physical security and ERP systems
+Designed, developed and supported a data warehouse and web-based reporting program for the GE Picture Perfect access control system.  The database was designed to process tens of millions of transactions via a web based UI.  This tool gave users an easy-to-use, non-technical interface allowing them to run reports on-demand while not affecting the production system.  This not only reduced the load on the server, it moved the report generating responsibility from the system administrators and allowed stakeholders to run their own reports.  The UI was written in PHP, the data import was written in C++ and the database platform was MySQL.
 
-* Develop BI reports and create dashboards for company management: accounting, branch management, timesheets and project managment
-* Setup and manage BI data warehouses
-* Process manufacturer price lists: convert and import into ERP system
-* Patch and upgrade various software packages on both server and client systems
+**State of Florida DHSMV FUPAC Project**
+
+The DHSMV in FL had a disparate access control system at each of its 12 deep water seaports.  We were responsible for visiting each port, exporting all cardholder and image information from each system, and turning them over to GE for conversion to their new system.  Once the new system was installed, we were responsible for patching the software and installing the peripheral devices for biometric enrollment of cardholders (passport scanners, fingerprint enrollment devices, and cameras).  We also trained staff according to the enrollment process developed by the DHSMV.
 
 Technologies
 ------------
@@ -67,10 +61,10 @@ Technologies
 | Java (SE and EE)  | Struts 2, Spring MVC/Webflow/Security  | Django, Flask, Bottle        |
 | Python            | Hibernate, JPA, OrmLite                | CakePHP, Zend Framework      |
 | Javascript        | Tomcat, Jetty                          | Git, SVN, CVS                |
-| PHP               | Eclipse, Maven, Ant                    | MS SQL, Informix, PostgreSQL |
+| PHP               | Eclipse, Maven, Ant, Ivy               | MS SQL, Informix, PostgreSQL |
 | SQL               | jQuery/jQuery UI                       | MySQL/MariaDB, SQLite, HSQL  |
-| c/c++             | Bootstrap                              |                              | 
-| Lisp, Perl, Shell | JUnit                                  |                              |
+| c/c++             | Bootstrap                              | Linux (RHEL, Ubuntu), IBM AIX| 
+| Lisp, Perl, Shell | JUnit                                  | Windows 7, 2008 R2 Server    |
 
 **Other**
 
