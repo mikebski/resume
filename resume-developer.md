@@ -12,7 +12,16 @@ I am an IT professional who enjoys working in a variety of roles, particularly s
 
 Employment
 --------------------
-**October 2011 - Present - Securadyne Systems**
+**August 2015 - Present - The Maven Group**
+
+    Software Developer.  Contract developer for AT&T Managed Applications and Managed Hosting Services Unit
+
+* Maintain and test client and public facing web services, using various open source and proprietary technologies
+* Setup Jenkins CI server to run daily regression test suites and generate reports
+* Develop and improve internal technical documentation 
+* Setup ELK "Proof of Concept" data warehouse and dashboards
+
+**October 2011 - August 2015 - Securadyne Systems**
 
     Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
@@ -61,17 +70,21 @@ Technologies
 Selected Projects
 -----------------
 
-**2014-Present: Engineering Request Forms**
+**2015 - Present: Selenium/Jenkins integration environment**
+
+Configured and maintained a Jenkins CI server that ran daily Selenium regression tests via a proprietary framework.  Configured 8 different applications to run regression tests against DEV, MAINT, and 2 STG environments.  Enhanced and maintained an application to generate a dashboard for Selenium test results.
+
+**2014-2015: Engineering Request Forms**
 
 Implemented an internal web-based tool to facilitate communication between sales and engineering staff.  Engineering required a workflow that would allow requests to be submitted, approved, designed and accepted.  The workflow needed to be simple, web-based, and allow reporting on performance indicators.  The application was written using Spring MVC and Spring Data running in a Tomcat container with a SQL Server repository.
 
-**2012-Present: Invarios**
+**2012-2015: Invarios**
 
 Participated in development and implementation of a customized ETL tool for enterprise Access Control systems.  The Java tool was based on Pentaho's PDI application with custom steps that we developed.  Plugins included a PDI step to transform images to a size and format appropriate for storage in Active Directory and a database update step that logged every change to a database record during an update for auditing reports.  This software was implemented at several enterprise client sites and is a part of the company product portfolio.
 
-**2013-Present: Company Timesheets**
+**2013-2015: Company Timesheets**
 
-Designed and implemented a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the frontend and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
+Designed and implemented a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the front-end and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
 
 **June 2015: Service Ticket Portal**
 

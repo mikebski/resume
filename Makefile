@@ -17,3 +17,8 @@ pdf : resume.tex
 	context resume.tex
 	context resume-developer.tex
 	mv resume*.pdf /var/www/
+
+clean :
+	rm *.tex
+	rm *.tuc
+	rm *.log
