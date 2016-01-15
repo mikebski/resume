@@ -1,4 +1,3 @@
-<div id="content">
 Mike Baranski
 =============
 
@@ -107,5 +106,3 @@ Education
 2001
    **BSc, Computer Science**; North Carolina State University (Raleigh, NC)
  
- 
-</div>
