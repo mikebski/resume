@@ -94,6 +94,10 @@ Designed and implemented a cloud service ticket portal for a large national cust
 
 Designed, developed and supported a data warehouse and web-based reporting program for the GE Picture Perfect access control system.  The database was designed to process tens of millions of transactions via a web based UI.  This tool gave users an easy-to-use, non-technical interface allowing them to run reports on-demand while not affecting the production system.  This not only reduced the load on the server, it removed the report generating responsibility from the system administrators and allowed stakeholders to run their own reports.  The UI was written in PHP running on Apache's HTTPD server, the data import was written in C++ and the database platform was MySQL.
 
+**State of Florida DHSMV FUPAC Project**
+
+The DHSMV in FL had a disparate access control system at each of its 12 deep water seaports.  We were responsible for visiting each port, exporting all cardholder and image information from each system, and turning them over to GE for conversion to their new system.  Once the new system was installed, we were responsible for patching the software and installing the peripheral devices for biometric enrollment of cardholders (passport scanners, fingerprint enrollment devices, and cameras).  We also trained staff according to the enrollment process developed by the DHSMV.
+
 Education
 ---------
  
