@@ -77,7 +77,7 @@ Configured and maintained a Jenkins CI server that ran daily Selenium regression
 
 Implemented an internal web-based tool to facilitate communication between sales and engineering staff.  Engineering required a workflow that would allow requests to be submitted, approved, designed and accepted.  The workflow needed to be simple, web-based, and allow reporting on performance indicators.  The application was written using Spring MVC and Spring Data running in a Tomcat container with a SQL Server repository.
 
-**2012-2015: Invariosi**
+**2012-2015: Invarios**
 
 Lead development and implementation of a customized ETL tool for enterprise Access Control systems.  The Java tool was based on Pentaho's PDI application with custom steps that we developed.  Plugins included a PDI step to transform images to a size and format appropriate for storage in Active Directory and a database update step that logged every change to a database record during an update for auditing reports.  This software was implemented at several enterprise client sites and is a part of the company product portfolio.
 
