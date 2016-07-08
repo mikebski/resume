@@ -43,7 +43,7 @@ Employment
 
     Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
-* Custom software and integration development
+* Lead developer - custom software and integration development
 * Database analyst services
 * Project planning and consulting
 * Technical evaluation of new products
@@ -56,7 +56,7 @@ Employment
     Software Developer and VP of IT
 
 * Manage all IT infrastructure for small main office and a number of remote employees
-* Software and integration development for Fortune 500 clients
+* Lead software and integration development for Fortune 500 clients
 * Database analyst services for customers
 * IT and physical security consulting for customers
 * Lead small industry trade group conferences
@@ -77,13 +77,13 @@ Configured and maintained a Jenkins CI server that ran daily Selenium regression
 
 Implemented an internal web-based tool to facilitate communication between sales and engineering staff.  Engineering required a workflow that would allow requests to be submitted, approved, designed and accepted.  The workflow needed to be simple, web-based, and allow reporting on performance indicators.  The application was written using Spring MVC and Spring Data running in a Tomcat container with a SQL Server repository.
 
-**2012-2015: Invarios**
+**2012-2015: Invariosi**
 
-Participated in development and implementation of a customized ETL tool for enterprise Access Control systems.  The Java tool was based on Pentaho's PDI application with custom steps that we developed.  Plugins included a PDI step to transform images to a size and format appropriate for storage in Active Directory and a database update step that logged every change to a database record during an update for auditing reports.  This software was implemented at several enterprise client sites and is a part of the company product portfolio.
+Lead development and implementation of a customized ETL tool for enterprise Access Control systems.  The Java tool was based on Pentaho's PDI application with custom steps that we developed.  Plugins included a PDI step to transform images to a size and format appropriate for storage in Active Directory and a database update step that logged every change to a database record during an update for auditing reports.  This software was implemented at several enterprise client sites and is a part of the company product portfolio.
 
 **2013-2015: Company Timesheets**
 
-Designed and implemented a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the front-end and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
+Lead developer for a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the front-end and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
 
 **June 2015: Service Ticket Portal**
 
@@ -91,7 +91,7 @@ Designed and implemented a cloud service ticket portal for a large national cust
 
 **CARMA for Picture Perfect**
 
-Designed, developed and supported a data warehouse and web-based reporting program for the GE Picture Perfect access control system.  The database was designed to process tens of millions of transactions via a web based UI.  This tool gave users an easy-to-use, non-technical interface allowing them to run reports on-demand while not affecting the production system.  This not only reduced the load on the server, it removed the report generating responsibility from the system administrators and allowed stakeholders to run their own reports.  The UI was written in PHP running on Apache's HTTPD server, the data import was written in C++ and the database platform was MySQL.
+Lead developer for a data warehouse and web-based reporting program for the GE Picture Perfect access control system.  The database was designed to process tens of millions of transactions via a web based UI.  This tool gave users an easy-to-use, non-technical interface allowing them to run reports on-demand while not affecting the production system.  This not only reduced the load on the server, it removed the report generating responsibility from the system administrators and allowed stakeholders to run their own reports.  The UI was written in PHP running on Apache's HTTPD server, the data import was written in C++ and the database platform was MySQL.
 
 **State of Florida DHSMV FUPAC Project**
 
