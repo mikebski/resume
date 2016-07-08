@@ -10,16 +10,34 @@ Mike Baranski
 
 I am an IT professional who enjoys working in a variety of roles, particularly software development.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/analyst tasks, and interfacing with clients.
 
+Technologies
+------------
+
+|**Languages**      |**Libraries/Frameworks**         |**Other**                     |
+|-------------------|---------------------------------|------------------------------|
+| Java (SE and EE)  | Struts 2, Spring, Shiro         | Django, Flask, Bottle        |
+| Python, Ruby      | Java EE, Hibernate, JPA, OrmLite| CakePHP                      |
+| Javascript        | Tomcat, Jetty                   | Git, SVN, CVS                |
+| PHP               | Eclipse, Maven, Ant, Ivy        | MS SQL, Informix, PostgreSQL |
+| SQL               | jQuery/jQuery UI, Angular JS    | MySQL/MariaDB, SQLite, HSQL  |
+| c/c++             | Bootstrap JS                    | Linux (RHEL, Ubuntu), IBM AIX| 
+| Lisp, Perl, Shell | JUnit, Mockito                  | Windows 7, 2008 R2 Server    |
+
+**Other**
+
+* Pentaho BI Suite, Sedona Office, WeSuite WeEstimate, Elasticsearch, Logstash, Kibana
+* AccessIT, Facility Commander, Picture Perfect, OnGuard, Avigilon, DVTel, CARMA for Picture Perfect
+* SOAP, XML-RPC, REST, JMS, Stomp
+
 Employment
 --------------------
 **August 2015 - Present - The Maven Group**
 
     Software Developer.  Contract developer for AT&T Managed Applications and Managed Hosting Services Unit
 
-* Maintain and test client and public facing web services, using various open source and proprietary technologies
-* Setup Jenkins CI server to run daily regression test suites and generate reports
-* Develop and improve internal technical documentation 
-* Setup ELK "Proof of Concept" data warehouse and dashboards
+* Java EE development - Mantain and enhance public facing software applications in the consumer financial services sector.  Participate in maintence and new development cycles to enhance applications and correct defects.
+* Setup Jenkins CI server to automatically run daily regression test suites and generate reports
+* Setup and develop ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
 
 **October 2011 - August 2015 - Securadyne Systems**
 
@@ -48,25 +66,6 @@ Employment
 
     Network and PC technician for a variety of local Triangle area businesses
  
-Technologies
-------------
-
-|**Languages**      |**Libraries/Frameworks**                |**More**                      |
-|-------------------|----------------------------------------|------------------------------|
-| Java (SE and EE)  | Struts 2, Spring MVC/Webflow/Security  | Django, Flask, Bottle        |
-| Python            | Hibernate, JPA, OrmLite                | CakePHP, Zend Framework      |
-| Javascript        | Tomcat, Jetty                          | Git, SVN, CVS                |
-| PHP               | Eclipse, Maven, Ant, Ivy               | MS SQL, Informix, PostgreSQL |
-| SQL               | jQuery/jQuery UI                       | MySQL/MariaDB, SQLite, HSQL  |
-| c/c++             | Bootstrap                              | Linux (RHEL, Ubuntu), IBM AIX| 
-| Lisp, Perl, Shell | JUnit                                  | Windows 7, 2008 R2 Server    |
-
-**Other**
-
-* Pentaho BI Suite, Sedona Office, WeSuite WeEstimate
-* AccessIT, Facility Commander, Picture Perfect, OnGuard, Avigilon, DVTel, CARMA for Picture Perfect
-* SOAP, XML-RPC, REST, JMS, Stomp
-
 Selected Projects
 -----------------
 
