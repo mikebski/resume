@@ -1,12 +1,12 @@
 <div id="content">
-Mike Baranski
-=============
+# Mike Baranski
 
-|Location||Contact|
-|-------------------|--------------|---------------------------------|
-|Raleigh, NC        |              |mike.baranski@gmail.com          | 
-|USA                |              |(919) 219-0032                   |
-|                   |              |[mikeski.net](http://mikeski.net)|
+
+|Location|Contact|
+|-------------------|---------------------------------|
+|Raleigh, NC        |mike.baranski@gmail.com          | 
+|USA                |(919) 219-0032                   |
+|                   |[mikeski.net](http://mikeski.net)|
 
 I am an IT professional who enjoys working in a variety of roles, particularly software development.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/analyst tasks, and interfacing with clients.
 
