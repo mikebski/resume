@@ -1,14 +1,15 @@
 <div id="content">
-Mike Baranski
-=============
 
-|Location||Contact|
-|-------------------|--------------|---------------------------------|
-|Raleigh, NC        |              |mike.baranski@gmail.com          | 
-|USA                |              |(919) 219-0032                   |
-|                   |              |[mikeski.net](http://mikeski.net)|
+# Mike Baranski
 
-I am an IT professional who enjoys working in a variety of roles.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/analyst tasks, and interfacing with clients.
+
+|Location|Contact|
+|-------------------|---------------------------------|
+|Raleigh, NC        |mike.baranski@gmail.com          | 
+|USA                |(919) 219-0032                   |
+|                   |[mikeski.net](http://mikeski.net)|
+
+I am an IT professional who enjoys working in a variety of roles, particularly software development.  I like software development, system administration/integration, and challenging problems.  I am comfortable in a dev-ops role, performing support/analyst tasks, and interfacing with clients.
 
 Technologies
 ------------
@@ -16,48 +17,49 @@ Technologies
 |**Languages**      |**Libraries/Frameworks**         |**Other**                     |
 |-------------------|---------------------------------|------------------------------|
 | Java (SE and EE)  | Struts 2, Spring, Shiro         | Django, Flask, Bottle        |
-| Python, Ruby      | Java EE, Hibernate, JPA, OrmLite| CakePHP                      |
-| Javascript        | Tomcat, Jetty                   | Git, SVN, CVS                |
-| PHP               | Eclipse, Maven, Ant, Ivy        | MS SQL, Informix, PostgreSQL |
+| Python, Ruby      | Hibernate, JPA, OrmLite         | CakePHP                      |
+| Javascript        | Tomcat, Jetty, Glassfish        | Git, SVN, CVS                |
+| PHP               | Maven, Ant, Ivy                 | MS SQL, Informix, PostgreSQL |
 | SQL               | jQuery/jQuery UI, Angular JS    | MySQL/MariaDB, SQLite, HSQL  |
-| c/c++             | Bootstrap JS                    | Linux (RHEL, Ubuntu), IBM AIX| 
+| c/c++             | Bootstrap, React                | Linux (RHEL, Ubuntu), IBM AIX| 
 | Lisp, Perl, Shell | JUnit, Mockito                  | Windows 7, 2008 R2 Server    |
 
 **Other**
 
-* Pentaho BI Suite, Sedona Office, WeSuite WeEstimate, Elasticsearch, Logstash, Kibana
+* Pentaho Tools, ELK stack, Docker (swarm), Eclipse, JetBrains tools, Google maps API, Twilio API, Office 365
 * AccessIT, Facility Commander, Picture Perfect, OnGuard, Avigilon, DVTel, CARMA for Picture Perfect
-* SOAP, XML-RPC, REST, JMS, Stomp
 
 Employment
 --------------------
 **August 2015 - Present - The Maven Group**
 
-    Software Developer.  Contract developer for AT&T Managed Applications and Managed Hosting Services Unit
+    Software Developer.  Contract developer for IBM GTS - previously AT&T Managed Applications and Managed Hosting Services Unit
 
-* Java EE development - Mantain and enhance public facing software applications in the consumer financial services sector.  Participate in maintence and new development cycles to enhance applications and correct defects.
-* Setup Jenkins CI server to automatically run daily regression test suites and generate reports
-* Setup and develop ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
+* Java EE development - Mantain and enhance customer aquisition applications in the consumer financial services sector.  Participate in maintence and new development cycles to enhance applications and correct defects.
+* Setup Jenkins CI server to automatically run daily Selenium regression test suites and generate reports
+* Setup ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
+* Release Manager for software release cycle
 
 **October 2011 - August 2015 - Securadyne Systems**
 
     Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
 * Lead developer - custom software and integration development
-* Database analyst services
+* Database Analyst / System Administrator (Windows and Linux)
 * Project planning and consulting
 * Technical evaluation of new products
 * Support for physical access control, digital video systems, and ERP applications
-* Site vulnerability surveys with regard to physical security
+* Site vulnerability surveys
 * Assist sales personnel and system engineers
 
 **Oct 2000 - Oct 2011: Security Management Consulting**
 
-    Software Developer and VP of IT
+    VP of IT
 
-* Manage all IT infrastructure for small main office and a number of remote employees
-* Lead software and integration development for Fortune 500 clients
-* Database analyst services for customers
+* Manage all IT infrastructure for corporate office and a number of remote employees
+* Lead software and integration developer
+* Database analyst
+* System Administrator (Windows and Linux)
 * IT and physical security consulting for customers
 * Lead small industry trade group conferences
 * Provide technical training courses for CEUs (SQL and UNIX/Linux workshops)
@@ -65,9 +67,21 @@ Employment
 **1999 - Oct 2000: Celito Communications**
 
     Network and PC technician for a variety of local Triangle area businesses
+
+Open Source Projects
+--------------------
+
+* [Logstash Plugin - logstash-filtert-datepart](https://github.com/mikebski/logstash-filter-datepart) Filter plugin for logstash date decomposition
+* [Logstash Plugin - logstash-filter-collect](https://github.com/mikebski/logstash-filter-collect) Filter plugin for logstash object property aggregation
+* [JQuery Plugin - demano](https://github.com/mikebski/demano) Plugin to allow css class filtering - [JSFiddle demo](https://jsfiddle.net/mbaranski/q2rarzfn/)
+
  
 Selected Projects
 -----------------
+
+**2017 - Present: mulchr.com**
+
+Site that allows arborists to get rid of their wood chips at nearby locations.  Public registration and private mapping tool that allows arborists to search for local dump sites.  Implemented using Java REST services with React front-end.  All services are running on a Docker Swarm cloud cluster.  Site is at [mulchr.com](https://mulchr.com)
 
 **2015 - Present: Selenium/Jenkins integration environment**
 

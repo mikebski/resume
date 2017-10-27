@@ -1,22 +1,22 @@
 all : html pdf
 
-html: buttondown.css resume-developer.md
+html: buttondown.css README.md
 	#pandoc -H buttondown.css resume.md >/var/www/resume.html
-	pandoc -H buttondown.css resume-developer.md >/var/www/resume-developer.html
+	pandoc -H buttondown.css README.md >~/Documents/resume.html
 
 resume.tex : buttondown.css 
 	#pandoc --standalone -t context resume.md -o resume.tex
-	pandoc --standalone -t context resume-developer.md -o resume-developer.tex
+	pandoc --standalone -t context README.md -o resume.tex
 
-word: buttondown.css resume-developer.md
+word: buttondown.css README.md
 	#pandoc -H buttondown.css resume.md -o resume.docx
-	pandoc -H buttondown.css resume-developer.md -o resume-developer.docx
-	cp resume*.docx /var/www/
+	pandoc -H buttondown.css README.md -o resume.docx
+	cp resume*.docx ~/Documents/
 
 pdf : resume.tex
 	#context resume.tex
-	context resume-developer.tex
-	cp resume*.pdf /var/www/
+	context resume.tex
+	cp resume*.pdf ~/Documents/
 
 clean :
 	rm *.tex
