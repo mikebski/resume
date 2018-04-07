@@ -1,5 +1,3 @@
-<div id="content">
-
 # Mike Baranski
 
 
@@ -16,11 +14,11 @@ Technologies
 
 |**Languages**      |**Libraries/Frameworks**         |**Other**                     |
 |-------------------|---------------------------------|------------------------------|
-| Java (SE and EE)  | Struts 2, Spring, Shiro         | Django, Flask, Bottle        |
-| Python, Ruby      | Hibernate, JPA, OrmLite         | CakePHP                      |
+| Java (SE and EE)  | Struts 2, Spring, Shiro         | Docker and Docker Swarm      |
+| Python, Ruby      | Hibernate, JPA, OrmLite         | Flask, Bottle, Django        |
 | Javascript        | Tomcat, Jetty, Glassfish        | Git, SVN, CVS                |
 | PHP               | Maven, Ant, Ivy                 | MS SQL, Informix, PostgreSQL |
-| SQL               | jQuery/jQuery UI, Angular JS    | MySQL/MariaDB, SQLite, HSQL  |
+| SQL               | jQuery/UI, Angular JS           | MySQL/MariaDB, SQLite, HSQL  |
 | c/c++             | Bootstrap, React                | Linux (RHEL, Ubuntu), IBM AIX| 
 | Lisp, Perl, Shell | JUnit, Mockito                  | Windows 7, 2008 R2 Server    |
 
@@ -35,6 +33,7 @@ Employment
 
     Software Developer.  Contract developer for IBM GTS - previously AT&T Managed Applications and Managed Hosting Services Unit
 
+* Docker Migration Developer - Part of team migrating infrastructure to Docker based containers for all applications related utilities.  Assist new team members with development environment setup and project orientation
 * Java EE development - Mantain and enhance customer aquisition applications in the consumer financial services sector.  Participate in maintence and new development cycles to enhance applications and correct defects.
 * Setup Jenkins CI server to automatically run daily Selenium regression test suites and generate reports
 * Setup ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
@@ -44,7 +43,7 @@ Employment
 
     Senior Support Engineer.  Member of Professional Services Group providing advanced support to branch offices and customers of all sizes throughout the US
 
-* Lead developer - custom software and integration development
+* Lead developer - Custom software and integration development
 * Database Analyst / System Administrator (Windows and Linux)
 * Project planning and consulting
 * Technical evaluation of new products
@@ -119,6 +118,3 @@ Education
  
 2001
    **BSc, Computer Science**; North Carolina State University (Raleigh, NC)
- 
- 
-</div>
