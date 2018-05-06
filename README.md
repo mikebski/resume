@@ -14,17 +14,16 @@ Technologies
 
 |**Languages**      |**Libraries/Frameworks**         |**Other**                     |
 |-------------------|---------------------------------|------------------------------|
-| Java (SE and EE)  | Struts 2, Spring, Shiro         | Docker and Docker Swarm      |
-| Python, Ruby      | Hibernate, JPA, OrmLite         | Flask, Bottle, Django        |
+| Java              | Struts 2, Spring, Spring Boot   | Docker/Swarm                 |
+| Python, Ruby      | Hibernate, JPA,                 | Flask, Bottle, Django        |
 | Javascript        | Tomcat, Jetty, Glassfish        | Git, SVN, CVS                |
 | PHP               | Maven, Ant, Ivy                 | MS SQL, Informix, PostgreSQL |
-| SQL               | jQuery/UI, Angular JS           | MySQL/MariaDB, SQLite, HSQL  |
-| c/c++             | Bootstrap, React                | Linux (RHEL, Ubuntu), IBM AIX| 
-| Lisp, Perl, Shell | JUnit, Mockito                  | Windows 7, 2008 R2 Server    |
+| SQL               | jQuery/UI, Angular JS, Jest     | MySQL/MariaDB, SQLite, HSQL  |
+| Shell (Bash)      | Bootstrap, React, Jasmine       | Linux (RHEL, Ubuntu), IBM AIX| 
+| Lisp, Perl        | JUnit, Mockito                  | Windows 7, 2008 R2 Server    |
 
-**Other**
+**PACS/VMS Systems**
 
-* Pentaho Tools, ELK stack, Docker (swarm), Eclipse, JetBrains tools, Google maps API, Twilio API, Office 365
 * AccessIT, Facility Commander, Picture Perfect, OnGuard, Avigilon, DVTel, CARMA for Picture Perfect
 
 Employment
@@ -73,7 +72,7 @@ Open Source Projects
 * [Logstash Plugin - logstash-filtert-datepart](https://github.com/mikebski/logstash-filter-datepart) Filter plugin for logstash date decomposition
 * [Logstash Plugin - logstash-filter-collect](https://github.com/mikebski/logstash-filter-collect) Filter plugin for logstash object property aggregation
 * [JQuery Plugin - demano](https://github.com/mikebski/demano) Plugin to allow css class filtering - [JSFiddle demo](https://jsfiddle.net/mbaranski/q2rarzfn/)
-
+* [React Component - geocoder](https://www.npmjs.com/package/react-google-geocoder) React component to geo-code addresses - [Demo](https://mikebski.github.io/react-google-geocoder-demo/)
  
 Selected Projects
 -----------------
@@ -82,7 +81,7 @@ Selected Projects
 
 Site that allows arborists to get rid of their wood chips at nearby locations.  Public registration and private mapping tool that allows arborists to search for local dump sites.  Implemented using Java REST services with React front-end.  All services are running on a Docker Swarm cloud cluster.  Site is at [mulchr.com](https://mulchr.com)
 
-**2015 - Present: Selenium/Jenkins integration environment**
+**2015 - 2017: Selenium/Jenkins integration environment**
 
 Configured and maintained a Jenkins CI server that ran daily Selenium regression tests via a proprietary framework.  Configured 8 different applications to run regression tests against DEV, MAINT, and 2 STG environments.  Enhanced and maintained an application to generate a dashboard for Selenium test results.
 
@@ -96,7 +95,7 @@ Lead development and implementation of a customized ETL tool for enterprise Acce
 
 **2013-2015: Company Timesheets**
 
-Lead developer for a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the front-end and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
+Develop a web-based timesheet system for the company.  Implemented a timesheet system to allow all remote employees to enter timesheet data into our SharePoint site.  This included a custom workflow to require management approval of time entries.  Once time was approved by management, the data was then imported into a data warehouse and was available for import into the company ERP system.  The SharePoint UI piece was written with JQuery/JQuery UI for the front-end and used SharePoint lists via the Javascript API for the data storage.  The imported data was stored in a SQL server and the front-end was a Spring Web MVC application in a Tomcat container using OrmLite for data access.
 
 **June 2015: Service Ticket Portal**
 
