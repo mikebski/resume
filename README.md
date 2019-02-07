@@ -26,11 +26,12 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 
 > Software Developer.  Contract developer for IBM GTS - previously AT&T Managed Applications and Managed Hosting Services Unit
 
-** Docker, Java EE, Spring Boot, ApacheMQ, Spring Cloud **
+** Docker, Java EE, Spring Boot, ApacheMQ, Spring Cloud, SAML, OAuth **
 
 * Docker Migration Developer - Part of team migrating infrastructure to Docker based containers for all applications related utilities.  Assist new team members with development environment setup and project orientation
 * Java EE development - Maintain and enhance customer acquisition applications in the consumer financial services sector.  Participate in maintenance and new development cycles to enhance applications and correct defects.
 * Lead developer on proprietary JMS based alerting system used by all applications using Spring Boot, JMS (ActiveMQ) with ReactJS frontentd
+* SSO integration developer - SAML developer external authentication/authorization integration
 * Setup Jenkins CI server to automatically run daily Selenium regression test suites and generate reports
 * Setup ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
 * Release Manager for software release cycle
