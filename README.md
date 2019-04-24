@@ -19,10 +19,19 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 * Linux (Ubuntu, RHEL/Centos/Fedora), Mac OSX, Windows 2008 Server
 * VirtualBox, VMWare ESXi, Vagrant, Docker
 * Raspberry Pi 
+* ServiceNow
 
 ## Employment
 
-### August 2015 - Present: The Maven Group
+### April 2019 - Present: IBM
+
+> Software Architect
+
+** Javascript, AngularJS, Java, ServiceNow **
+
+* ServiceNow Architect - Design and develop busniess applications to work within the ServiceNow framework
+
+### August 2015 - April 2019: The Maven Group
 
 > Software Developer.  Contract developer for IBM GTS - previously AT&T Managed Applications and Managed Hosting Services Unit
 
@@ -35,11 +44,6 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 * Setup Jenkins CI server to automatically run daily Selenium regression test suites and generate reports
 * Setup ELK data warehouse and dashboards to allow management and clients to access "real time" BI reports and visualizations
 * Release Manager for software release cycle
-
-
-
-
-
 
 ### October 2011 - August 2015: Securadyne Systems
 
