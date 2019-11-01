@@ -82,6 +82,7 @@ Open Source Projects
 
 ** Maintainer **
 
+* [React Google geocoder](https://github.com/mikebski/react-google-geocoder) React widget to geocode with Google's api
 * [Logstash Plugin - logstash-filtert-datepart](https://github.com/mikebski/logstash-filter-datepart) Filter plugin for logstash date decomposition
 * [Logstash Plugin - logstash-filter-collect](https://github.com/mikebski/logstash-filter-collect) Filter plugin for logstash object property aggregation
 * [JQuery Plugin - demano](https://github.com/mikebski/demano) Plugin to provide css class filtering - [JSFiddle demo](https://jsfiddle.net/mbaranski/q2rarzfn/)
