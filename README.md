@@ -80,10 +80,18 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 Open Source Projects
 --------------------
 
+** Maintainer **
+
 * [Logstash Plugin - logstash-filtert-datepart](https://github.com/mikebski/logstash-filter-datepart) Filter plugin for logstash date decomposition
 * [Logstash Plugin - logstash-filter-collect](https://github.com/mikebski/logstash-filter-collect) Filter plugin for logstash object property aggregation
 * [JQuery Plugin - demano](https://github.com/mikebski/demano) Plugin to provide css class filtering - [JSFiddle demo](https://jsfiddle.net/mbaranski/q2rarzfn/)
  
+** Contributor **
+
+* [Adminer] (https://github.com/vrana/adminer) Fix for PG 12
+* [Apache log4j] (https://github.com/apache/logging-log4j2) Fix/change string concatenation to use formatter instead
+* [Redis Session Manager for Tomcat] (https://github.com/chexagon/redis-session-manager) Fix session load from Redis store issue
+
 Education
 ---------
  
