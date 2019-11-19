@@ -19,7 +19,7 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 * Linux (Ubuntu, RHEL/Centos/Fedora), Mac OSX, Windows 2008 Server
 * VirtualBox, VMWare ESXi, Vagrant, Docker
 * Raspberry Pi 
-* ServiceNow
+* ServiceNow: Service Catalog, Scoped App Development, ATF Test Development, Workflow Implementation
 
 ## Employment
 
