@@ -92,6 +92,7 @@ Open Source Projects
 * [Adminer](https://github.com/vrana/adminer) Fix for PG 12
 * [Apache log4j](https://github.com/apache/logging-log4j2) Fix/change string concatenation to use formatter instead
 * [Redis Session Manager for Tomcat](https://github.com/chexagon/redis-session-manager) Fix session load from Redis store issue
+* [Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow) Fix issue with `task execution log` output in shell
 
 Other
 -----
