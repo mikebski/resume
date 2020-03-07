@@ -97,7 +97,7 @@ Open Source Projects
 Other
 -----
 
-** Projects **
+** Sample Projects **
 
 * [Google Drive Usage Dashboard](https://drivedashboard.saisols.com/)
 * [Consumer Financial Protection Board Complaint Visualizations](https://cfpb.saisols.com/)
