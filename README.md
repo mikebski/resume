@@ -96,9 +96,21 @@ Open Source Projects
 
 Other
 -----
-** Author **
+
+** Projects **
+
+* [Google Drive Usage Dashboard](https://drivedashboard.saisols.com/)
+* [Consumer Financial Protection Board Complaint Visualizations](https://cfpb.saisols.com/)
+
+** Technical Author **
 
 * [Baeldung - Hibernate named parameters error](https://www.baeldung.com/hibernate-error-named-parameters-not-set)
+* [Baeldung - Linux recursively delete files](https://www.baeldung.com/linux/recursively-delete-files-with-extension)
+* [Baeldung - Guide to monitoring disk usage](https://www.baeldung.com/linux/monitor-disk-usage)
+
+** Other **
+
+* [Cary Citizen - Contributor](https://carycitizen.com/about/)
 
 Education
 ---------
