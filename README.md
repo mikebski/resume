@@ -25,7 +25,7 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 
 ### April 2019 - Present: IBM
 
-> Software Architect
+> Software Developer
 
 ** Javascript, AngularJS, Java, ServiceNow **
 
