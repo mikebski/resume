@@ -102,7 +102,7 @@ Other
 
 * [Google Drive Usage Dashboard](https://drivedashboard.saisols.com/)
 * [Consumer Financial Protection Board Complaint Visualizations](https://cfpb.saisols.com/)
-* [Hugo development blog] (https://blog.mikeskin.et)
+* [Hugo development blog](https://blog.mikeskin.et)
 
 ** Technical Author **
 
