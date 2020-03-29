@@ -13,6 +13,7 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 * JUnit, PyUnit, Test::Unit, PHPUnit, Expect, Jasmine, Jest
 * Oracle, MySQL, Postgresql, SQLite, MS SQL Server, Informix, Redis, MongoDB
 * Apache HTTPD, Apache Tomcat, Jetty, Glassfish, WAS
+* Hugo
 * JMS (ActiveMQ, WAS JMS), Stomp (stomp.py)
 * SVN, Git, CVS
 * Jenkins, Bitbucket, TravisCI
@@ -101,6 +102,7 @@ Other
 
 * [Google Drive Usage Dashboard](https://drivedashboard.saisols.com/)
 * [Consumer Financial Protection Board Complaint Visualizations](https://cfpb.saisols.com/)
+* [Hugo development blog] (https://blog.mikeskin.et)
 
 ** Technical Author **
 
