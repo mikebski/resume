@@ -102,13 +102,13 @@ Other
 
 * [Google Drive Usage Dashboard](https://drivedashboard.saisols.com/)
 * [Consumer Financial Protection Board Complaint Visualizations](https://cfpb.saisols.com/)
-* [Hugo development blog](https://blog.mikeski.net)
 
 ** Technical Author **
 
 * [Baeldung - Hibernate named parameters error](https://www.baeldung.com/hibernate-error-named-parameters-not-set)
 * [Baeldung - Linux recursively delete files](https://www.baeldung.com/linux/recursively-delete-files-with-extension)
 * [Baeldung - Guide to monitoring disk usage](https://www.baeldung.com/linux/monitor-disk-usage)
+* [Hugo development blog & theme](https://blog.mikeski.net)
 
 ** Other **
 
