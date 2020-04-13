@@ -83,6 +83,7 @@ Open Source Projects
 
 ** Maintainer **
 
+* [React Google address autocomplete](https://github.com/mikebski/react-google-address-autocomplete) React widget to autocomplete address using Google's api
 * [React Google geocoder](https://github.com/mikebski/react-google-geocoder) React widget to geocode with Google's api
 * [Logstash Plugin - logstash-filtert-datepart](https://github.com/mikebski/logstash-filter-datepart) Filter plugin for logstash date decomposition
 * [Logstash Plugin - logstash-filter-collect](https://github.com/mikebski/logstash-filter-collect) Filter plugin for logstash object property aggregation
