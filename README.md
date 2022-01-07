@@ -31,6 +31,7 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 ** Javascript, AngularJS, Java, ServiceNow **
 
 * ServiceNow Architect - Design and develop busniess applications to work within the ServiceNow framework
+* Java/Kotlin Developer - Develop containerizded microservices and applications to support business processes - mainly using Kotlin and running on the IBM hybrid cloud (based on OpenShift)
 
 ### August 2015 - April 2019: The Maven Group
 
