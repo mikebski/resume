@@ -22,7 +22,7 @@ Senior Software Developer with experience on projects of all sizes.  Experienced
 * Raspberry Pi 
 * ServiceNow: Service Catalog, Scoped App Development, ATF Test Development, Workflow Implementation
 
-[https://www.credly.com/users/mike-baranski/badges](Credly profile)
+[https://www.credly.com/users/mike-baranski/badges] (Credly profile)
 
 ## Employment
 
